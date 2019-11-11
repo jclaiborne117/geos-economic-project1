@@ -1,3 +1,3 @@
 # economic-project
 
-A project for ecnomics class
+A project for economics class
